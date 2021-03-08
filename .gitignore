@@ -1,3 +1,8 @@
+# USER DEFINED
+*.crt
+*.key
+Server-Side-Scripts/password.h
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
